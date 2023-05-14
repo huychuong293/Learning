@@ -1,0 +1,43 @@
+Truong Duy Anh # 2006 # An Giang # Quan 12, Ho Chi Minh # 7.0 # 3.0 # 5.0
+Ho Thanh Binh # 2006 # Ba Ria – Vung Tau # Quan 12, Ho Chi Minh # 10.0 # 3.0 # 10.0
+Ngo Manh Cuong # 2006 # Bac Giang # Quan 12, Ho Chi Minh # 6.0 # 9.0 # 4.0
+Nguyen Thi Ky Duyen # 2006 # Bac Kan # Quan 12, Ho Chi Minh # 3.0 # 1.0 # 2.0
+Do Thuỳ Duong # 2006 # Bac Lieu # Quan 12, Ho Chi Minh # 6.0 # 9.0 # 6.0
+Nguyen Quoc Dat # 2006 # Bac Ninh # Quan 12, Ho Chi Minh # 1.0 # 2.0 # 7.0
+Nguyen Thu Ha # 2006 # Ben Tre # Quan 12, Ho Chi Minh  # 3.0 # 7.0 # 4.0
+Khuu Quoc Anh Hao # 2006 # Binh Dinh # Quan 12, Ho Chi Minh # 8.0 # 7.0 # 2.0
+Nguyen Thi Kim Hoang # 2006 # Binh Duong # Quan 12, Ho Chi Minh # 5.0 # 1.0 # 6.0
+Phan Quoc Huy # 2006 # Binh Phuoc # Quan 12, Ho Chi Minh # 5.0 # 2.0 # 10.0
+Nguyen Quoc Khang # 2006 # Binh Thuan # Quan 12, Ho Chi Minh # 8.0 # 10.0 # 3.0
+Dau Duc Khuyen # 2006 # Ca Mau # Quan 12, Ho Chi Minh # 1.0 # 5.0 # 6.0
+Vu Hoang Kien # 2006 # Can Tho # Quan 12, Ho Chi Minh # 2.0 # 8.0 # 5.0
+Nguyen Thi Phuong Linh # 2006 # Cao Bang # Quan 12, Ho Chi Minh # 2.0 # 4.0 # 2.0
+Nguyen Tan Loc # 2006 # Da Nang # Quan 12, Ho Chi Minh # 5.0 # 7.0 # 2.0
+Phan Quang Minh # 2006 # Dak Lak # Quan 12, Ho Chi Minh # 5.0 # 5.0 # 1.0
+Dang Hoang Nam # 2006 # Dak Nong # Quan 12, Ho Chi Minh # 7.0 # 7.0 # 7.0
+Bui Thi Ngoc # 2006 # Dien Bien # Quan 12, Ho Chi Minh # 3.0 # 5.0 # 10.0
+Nguyen Thi Thao Nguyen # 2006 # Dong Nai # Quan 12, Ho Chi Minh # 2.0 # 9.0 # 5.0
+Tran Thi Bich Nhi # 2006 # Dong Thap # Quan 12, Ho Chi Minh # 1.0 # 3.0 # 10.0
+Nguyen Huỳnh Nhu # 2006 # Gia Lai # Quan 12, Ho Chi Minh # 9.0 # 9.0 # 6.0
+Ngo Thi Thien Nhu # 2006 # Ha Giang # Quan 12, Ho Chi Minh # 7.0 # 5.0 # 8.0
+Nguyen Hoang Phi # 2005 # Ha Nam # Quan 12, Ho Chi Minh # 1.0 # 4.0 # 6.0
+Huỳnh Ngoc Vu Phuong # 2006 # Ha Noi # Quan 12, Ho Chi Minh # 7.0 # 4.0 # 6.0
+Phung Thai Sang # 2006 # Ha Tinh # Quan 12, Ho Chi Minh # 7.0 # 8.0 # 9.0
+Dang Anh Tai # 2006 # Hai Duong # Quan 12, Ho Chi Minh # 5.0 # 5.0 # 2.0
+Nguyen Quoc Thai # 2006 # Hai Phong # Quan 12, Ho Chi Minh # 7.0 # 4.0 # 10.0
+Bui Van Thai # 2006 # Hau Giang # Quan 12, Ho Chi Minh # 8.0 # 9.0 # 9.0
+Nguyen Thi Thu Thao # 2006 # Hoa Binh # Quan 12, Ho Chi Minh # 5.0 # 8.0 # 10.0
+Le Anh Thu # 2006 # Hung Yen # Quan 12, Ho Chi Minh # 5.0 # 9.0 # 3.0
+Vuong Minh Thu # 2006 # Khanh Hoa # Quan 12, Ho Chi Minh # 1.0 # 3.0 # 5.0
+Bui Thi Mong Thuong # 2006 # Kien Giang # Quan 12, Ho Chi Minh # 8.0 # 9.0 # 10.0
+Pham Huu Toan # 2006 # Lai Chau # Quan 12, Ho Chi Minh # 10.0 # 7.0 # 9.0
+Nguyen Vu Huyen Trang # 2006 # Lam Dong # Quan 12, Ho Chi Minh # 10.0 # 9.0 # 8.0
+Huỳnh Ngoc Mai Trinh # 2006 # Lang Son # Quan 12, Ho Chi Minh # 5.0 # 3.0 # 10.0
+Nguyen Van Thanh Trung # 2006 # Lao Cai # Quan 12, Ho Chi Minh # 1.0 # 8.0 # 5.0
+Nguyen Le Minh Tu # 2006 # Long An # Quan 12, Ho Chi Minh # 5.0 # 3.0 # 9.0
+Nguyen Thi Ngoc Vang # 2006 # Nam Dinh # Quan 12, Ho Chi Minh # 7.0 # 2.0 # 7.0
+Nguyen Truong Tuong Vy # 2005 # Nghe An # Quan 12, Ho Chi Minh # 5.0 # 7.0 # 10.0
+Le Thach Yen Vy # 2006 # Ninh Binh # Quan 12, Ho Chi Minh # 5.0 # 4.0 # 7.0
+Truong Ba Anh # 2007 # Vung Tau # Quan 12, Ho Chi Minh # 9.0 # 9.0 # 9.0
+Tran Duy Anh # 2008 # Nghe An # Quan 12, Ho Chi Minh # 8.0 # 9.0 # 10.0
+HHHHH # 2006 # Long An # Quan 12, Ho Chi Minh # 8.2 # 9.5 # 7.1

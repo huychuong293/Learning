@@ -1,0 +1,14 @@
+Vu Van Giang # 1992 # An Giang # Quan 12, Ho Chi Minh # 2005 # 0
+Dinh Gia Viet # 1994 # Ba Ria – Vung Tau # Quan 12, Ho Chi Minh # 2015 # 0
+Nguyen Thi Minh Linh # 1985 # Bac Giang # Quan 12, Ho Chi Minh # 2010 # 1
+Tran Thi Thanh Hao # 1986 # Bac Kan # Quan 12, Ho Chi Minh # 2005 # 1
+Luong Thi Phuong # 1981 # Bac Lieu # Quan 12, Ho Chi Minh # 2007 # 0
+Ho Thi Quỳnh Giang # 1991 # Bac Ninh # Quan 12, Ho Chi Minh # 2015 # 1
+Do Thi Ngoc Lan # 1986 # Ben Tre # Quan 12, Ho Chi Minh # 2014 # 1
+Nguyen Thi Thanh Van # 1987 # Binh Dinh # Quan 12, Ho Chi Minh # 2018 # 1
+Ta Thi Hiep # 1999 # Binh Duong # Quan 12, Ho Chi Minh # 2019 # 0
+Vo Thi Minh Thuy # 1992 # Binh Phuoc # Quan 12, Ho Chi Minh # 2020 # 0
+AAAAAA # 1990 # Vinh Phuc # Quan 12, Ho Chi Minh # 2015 # 0
+BBBBBB # 1992 # Binh Duong # Quan 12, Ho Chi Minh # 2017 # 1
+EEEE # 1991 # Ho Chi Minh # Quan 12, Ho Chi Minh # 2010 # 0
+RRR # 1991 # Lam Dong # Quan 12, Ho Chi Minh # 2020 # 0
